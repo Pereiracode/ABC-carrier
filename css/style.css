@@ -1,0 +1,62 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background-color: #6b6865;
+}
+
+/*Início do header*/
+header .container{
+    background-color:#6b6865; 
+    height: 150px; 
+    margin-top: 30px;
+}
+
+h5{
+    color:white;
+}
+
+.navbar{
+    background-color: #f7a705;
+}
+
+.navbar-brand{
+    font-family: 'Lobster' , cursive;
+    font-size: 25px;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+/*Fim do header*/
+
+/*Início do main*/
+/*Início da Section conheca*/
+#conheca #conhecadiv{
+    margin-top: 30px;
+}
+
+#rowdiv{
+    margin-bottom:30px;
+    color: white;
+}
+
+#papr{
+    font-size: 20px;
+    line-height: 40px; 
+    color:white;
+}
+
+#tonline{
+    background-color: gray;
+    margin-top:60px;
+    width: 300px;
+    align-items: center; 
+    text-align: center;
+}
+
+h3{
+    padding-top: 20px;
+     padding-bottom: 20px;
+}
+/*Fim da Section conheca*/
